@@ -1,4 +1,4 @@
-[Restaurant_final_table.csv](https://github.com/user-attachments/files/23913372/Restaurant_final_table.csv)# RESTAURANT_SALES_ANALYSIS
+# RESTAURANT_SALES_ANALYSIS
 
 ## Table of Contents
 
