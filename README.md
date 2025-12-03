@@ -11,12 +11,8 @@
 
 ### Project Overview
 
-This analysis project aims to draw data-driven insights from the first quarter of 2023 dataset of a restaurant. By analyzing various aspects data, I’ve organized the insights into Overall Trends, Menu Category Performance, Dish-Level Performance, Time-Based Patterns, and Pricing Insights.
+This analysis project aims to draw data-driven insights from the first quarter of 2023 dataset of a restaurant. By analyzing various aspects of the data, I’ve organized the insights into Overall Trends, Menu Category Performance, Dish-Level Performance, Time-Based Patterns, and Pricing Insights.
 
-
-### Data Sources
-Sales Data: The primary dataset used for this analysis is the "Pizza Sales.xlsx" file, containing detailed information about each sale made by Plato's Pizza.
-Dataset can be found in Kaggle [download](https://www.kaggle.com/datasets/shilongzhuang/pizza-sales)
 
 ### Tools Used
 SQL
@@ -28,10 +24,8 @@ Power Bi
 ### Data Cleaning/Preparation
 In the initial data preparation phase, I performed the following tasks:
 
-- Created a new sheet to duplicate the original data for the cleaning.
-- Inspected the data for any missing values by using the column header row of each columns.
-- Data cleaning and formatting by ensuring the data is consisitent and clean with respect to data types, data format and valued used.
-- Added new columns to extract the month and days from the Order date to answer some of the questions for the analysis. The Text function was used for this extraction; =TEXT([@[order_date]],"mmmm") and =TEXT([@[order_date]], "dddd").
+- Checked for null or blank values in both table menu items and order details. The Menu_Item table had no null or blank values but the Order_Details table had 137 null values.
+- Checked for duplicate values were found in both tables.
 
 ![Data Model - Pizza Sales - Excel 1_24_2025 6_40_44 PM](https://github.com/user-attachments/assets/0c609f73-16a6-45ef-b878-164ce9bc763d)
 
