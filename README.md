@@ -17,7 +17,7 @@
 
 ## Project Overview
 
-This analysis project aims to draw data-driven insights from the first quarter of 2023 dataset of a restaurant. By analyzing various aspects of the data, I’ve organized the insights into Overall Trends, Menu Category Performance, Dish-Level Performance, Time-Based Patterns, and Pricing Insights.
+A quarter's worth of orders from a fictitious restaurant serving international cuisine. This analysis project aims to draw data-driven insights from the first quarter of 2023 dataset of the restaurant. By analyzing various aspects of the data, I’ve organized the insights into Overall Trends, Menu Category Performance, Dish-Level Performance, Time-Based Patterns, and Pricing Insights.
 
 ## About Dataset
 The dataset is a CSV file and contains 2 tables namely menu_items and order_details with 32 records and 12,234 records respectively.
