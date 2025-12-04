@@ -185,7 +185,7 @@ Sales dip sharply late at night (after 9 pm).
 
 
 
-###💲 5. Price Distribution Insights
+### 💲 5. Price Distribution Insights
 
 Most items sold fall in the $12 – $18 price range.
 
