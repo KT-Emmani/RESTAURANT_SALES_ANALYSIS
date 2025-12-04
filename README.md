@@ -20,7 +20,7 @@
 This analysis project aims to draw data-driven insights from the first quarter of 2023 dataset of a restaurant. By analyzing various aspects of the data, I’ve organized the insights into Overall Trends, Menu Category Performance, Dish-Level Performance, Time-Based Patterns, and Pricing Insights.
 
 ## About Dataset
-The dataset contains 2 tables namely menu_items and order_details with 32 records and 12,234 records respectively.
+The dataset is a CSV file and contains 2 tables namely menu_items and order_details with 32 records and 12,234 records respectively.
 
 #### Menu_items
 - Menu_item_id - Unique ID of a menu item
@@ -36,7 +36,7 @@ The dataset contains 2 tables namely menu_items and order_details with 32 record
 - Item_id	Matches the menu_item_id in the menu_items table
 
 #### Data Source
-Download
+Dataset can be found in Maven Analytics: [download](https://mavenanalytics.io/data-playground/restaurant-orders) 
 
 ## Data Cleaning And Preparation 
 
