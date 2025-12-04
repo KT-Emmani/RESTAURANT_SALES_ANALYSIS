@@ -49,7 +49,7 @@ In the initial data preparation phase, I performed the following tasks:
 - Checked for null or blank values in both table menu items and order details. The Menu_Item table had no null or blank values but the Order_Details table had 137 null values.
 - Checked for duplicate values with the use of Window function and No duplicate values were found in both tables.
 - Checked the standardization of all the columns in both tables, however, I needed to convert the order_time column in the Order_Details table from 12 hour format to 24 hour format.
-- Created a duplicate table for the Order_Details tabe for the conversion of the the order_time column.
+- Created a duplicate table of the Order_Details table for the format conversion of the the order_time column.
 - Created a View Table by joining both tables with the JOIN Statement as the final table to be uploaded to Power Bi for the analysis and visualization.
 
 
