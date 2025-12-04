@@ -4,7 +4,9 @@
 
 - [Project Overview](#project-overview)
 
-- [Data Source](#data-sources)
+- [About Dataset](#about-dataset)
+
+- [Data Cleaning & Preparation](#data-cleaning-&-preparation)
 
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 
@@ -18,14 +20,16 @@
 This analysis project aims to draw data-driven insights from the first quarter of 2023 dataset of a restaurant. By analyzing various aspects of the data, I’ve organized the insights into Overall Trends, Menu Category Performance, Dish-Level Performance, Time-Based Patterns, and Pricing Insights.
 
 
-### Tools Used
+
+### Data Cleaning & Preparation 
+#### Tools Used
 SQL
 - Data Cleaning & Manipulation
 
 Power Bi
 - Visualization
 
-### Data Cleaning/Preparation
+#### Data Cleaning/Preparation
 In the initial data preparation phase, I performed the following tasks:
 
 - Checked for null or blank values in both table menu items and order details. The Menu_Item table had no null or blank values but the Order_Details table had 137 null values.
@@ -202,26 +206,32 @@ Running promotions to lift the weaker American segment
 
 3️⃣ Flagship Items Identified
 
-Korean Beef Bowl (high revenue item)
+Korean Beef Bowl (high revenue dish)
 
-Hamburger (high volume item)
+Hamburger (high volume dish)
 
 Promote as signature dishes or bundle them.
 
 
 4️⃣ Pricing Strategy is Working
 
-Majority of orders fall in the $10–$15 window—keep core menu pricing here.
+Majority of orders fall in the $12 – $18 window—keep core menu pricing here.
 
 
-5️⃣ Growth Momentum Is Strong
-
-With all KPIs rising month-over-month, expansion (menu variety or store capacity) may be justified.
 
 ## Dashboard 
-<img width="3000" height="1903" alt="Power BI Desktop 12_3_2025 9_53_39 PM" src="https://github.com/user-attachments/assets/ea229650-2602-4c27-9d4b-17ab3a621b19" />
 
-<img width="3000" height="1903" alt="Power BI Desktop 12_3_2025 9_54_00 PM" src="https://github.com/user-attachments/assets/d6287d1a-2ec2-4fb9-ad8a-36d35696adc6" />
 
-<img width="3000" height="1903" alt="Power BI Desktop 12_3_2025 9_58_16 PM" src="https://github.com/user-attachments/assets/b51bbf81-7e88-4f22-b32d-c040710eac8d" />
+<img width="2580" height="1454" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/1245a19b-14c8-458c-aa81-9a0feae5f8c8" />
+
+
+<img width="2588" height="1451" alt="Orders Dashboard" src="https://github.com/user-attachments/assets/9796d370-3d9c-440a-afdf-92c6051f5c60" />
+
+
+<img width="2585" height="1459" alt="Qty Sold Dashboard" src="https://github.com/user-attachments/assets/daf1ae4b-6455-4b67-b2d5-31cf71e34d7d" />
+
+
+
+
+
 
