@@ -10,7 +10,7 @@
 
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 
-- [📌 Key Strategic Insights](#📌-key-strategic-insights)
+- [Key Strategic Insights](#key-strategic-insights)
 
 - [Dashboard](#dashboard)
 
@@ -34,8 +34,6 @@ The dataset contains 2 tables namely menu_items and order_details with 32 record
 - Order_date	Date an order was put in (MM/DD/YY)
 - Order_time	Time an order was put in (HH:MM:SS AM/PM)
 - Item_id	Matches the menu_item_id in the menu_items table
-
-
 
 
 ## Data Cleaning & Preparation 
@@ -198,7 +196,7 @@ Most items sold fall in the $12 – $18 price range.
 ➡️ Your pricing sweet spot is between $12 – $18 — this is where customers buy the most.
 
 
-## 📌 Key Strategic Insights
+## Key Strategic Insights
 
 
 1️⃣ Optimize Around Peak Hours
