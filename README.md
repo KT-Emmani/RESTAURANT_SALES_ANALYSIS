@@ -10,7 +10,7 @@
 
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 
-- [Key Strategic Insights](#key-strategic-insights)
+- [📌 Key Strategic Insights](#📌-key-strategic-insights)
 
 - [Dashboard](#dashboard)
 
